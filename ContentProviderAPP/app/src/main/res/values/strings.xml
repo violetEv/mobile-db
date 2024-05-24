@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProviderAPP</string>
+    <string name="daftar_menu">Daftar Menu</string>
+    <string name="tambah_menu">Tambah Menu</string>
+</resources>
